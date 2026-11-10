@@ -19,4 +19,4 @@ Analysis of 517,865 KPDN PriceCatcher records (Jul 2025 – Jun 2026) for chicke
 
 ## Contact
 - LinkedIn: [your LinkedIn link]
-- Email: [your email]
+- Email: nraqielahh56@gmail.com
