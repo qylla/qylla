@@ -20,4 +20,4 @@ Analysis of 517,865 KPDN PriceCatcher records (Jul 2025 – Jun 2026) for chicke
 - **SwiftBites database:** normalised relational schema and SQL queries
 
 ## Contact
-- LinkedIn: [your LinkedIn link]
+- LinkedIn: www.linkedin.com/in/nur-aqilah-4795b6292 
